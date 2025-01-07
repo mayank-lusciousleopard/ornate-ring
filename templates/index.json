@@ -1,0 +1,629 @@
+{
+  "sections": {
+    "slideshow_C4tb3B": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_gVa7Ln": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2024-12-26T163836.973.png",
+            "mobile_image": "shopify:\/\/shop_images\/image_-_2024-12-26T163836.973.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_gVa7Ln"
+      ],
+      "custom_css": [
+        ".slideshow__text-wrapper {display: none;}",
+        "ul.slick-dots {display: none;}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "multicolumn_EB6iA7": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_VipByc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2024-12-26T193136.427.png",
+            "title": "",
+            "text": "<p><strong>RINGS<\/strong><\/p>",
+            "link_label": "",
+            "link": "#"
+          }
+        },
+        "column_Q6ggiK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2024-12-26T193142.078.png",
+            "title": "",
+            "text": "<p><strong>EARRINGS<\/strong><\/p>",
+            "link_label": "",
+            "link": "#"
+          }
+        },
+        "column_8hpETK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2024-12-26T193154.218.png",
+            "title": "",
+            "text": "<p><strong>PENDANTS<\/strong><\/p>",
+            "link_label": "",
+            "link": "#"
+          }
+        },
+        "column_XxDVAB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2024-12-26T193305.055.png",
+            "title": "",
+            "text": "<p><strong>NECKLACES<\/strong><\/p>",
+            "link_label": "",
+            "link": "#"
+          }
+        },
+        "column_Rngctm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2024-12-26T193320.229.png",
+            "title": "",
+            "text": "<p><strong>BRACELETS<\/strong><\/p>",
+            "link_label": "",
+            "link": "#"
+          }
+        },
+        "column_TExdn9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2024-12-26T193343.462.png",
+            "title": "",
+            "text": "<p><strong>CHARMS<\/strong><\/p>",
+            "link_label": "",
+            "link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "column_VipByc",
+        "column_Q6ggiK",
+        "column_8hpETK",
+        "column_XxDVAB",
+        "column_Rngctm",
+        "column_TExdn9"
+      ],
+      "custom_css": [
+        ".multicolumn .multicolumn-card__info {padding-top: 1rem;}",
+        ".multicolumn .multicolumn-card__info {text-align: left;}",
+        ".multicolumn .multicolumn-card__info .rte {max-width: 100%;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "new_featured_collection_xWrbF4": {
+      "type": "new-featured-collection",
+      "custom_css": [
+        "h2.title {text-align: center; margin-top: 0;}",
+        "h2.title p {margin-top: 0;}"
+      ],
+      "settings": {
+        "title": "<p><em>New<\/em><br\/>COLLECTIONS<\/p>",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "new-home-page",
+        "button_text": "",
+        "button_url": "",
+        "products_to_show": 50,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_featured_collection_BLR8MF": {
+      "type": "image-with-featured-collection",
+      "settings": {
+        "collection_image": "shopify:\/\/shop_images\/image_-_2024-12-27T110804.423.png",
+        "title": "Elegance Cast in Gold",
+        "heading_size": "h1",
+        "description": "<p>Shop New Arrivals<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "new-home-page",
+        "button_text": "",
+        "button_url": "",
+        "products_to_show": 50,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_kiLC8j": {
+      "type": "image-banner",
+      "blocks": {
+        "text_hY4C6B": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Diamond Rings<\/h2>",
+            "text_style": "body"
+          }
+        },
+        "heading_gVLCD7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Exclusive Collection",
+            "heading_size": "h1"
+          }
+        },
+        "text_MW47Ya": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Must add accessories to pair on every occasion Must add accessories to pair <\/p>",
+            "text_style": "body"
+          }
+        },
+        "buttons_caHqH9": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Now",
+            "button_link_1": "#",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_hY4C6B",
+        "heading_gVLCD7",
+        "text_MW47Ya",
+        "buttons_caHqH9"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2.banner__heading {font-family: \"Great Vibes\", serif; line-height: 1;}",
+        ".banner__text,.banner__text p {margin: 0 !important;}",
+        "@media screen and (min-width: 1099px) {h2.banner__heading {font-size: 60px; }}"
+      ],
+      "settings": {
+        "custom_class": "",
+        "image": "shopify:\/\/shop_images\/image_-_2024-12-26T192009.303.png",
+        "mobile_image": "shopify:\/\/shop_images\/dd54c7946b739e92f03ccae14a46e881.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "category_multicolumn_Ca4tDR": {
+      "type": "category-multicolumn",
+      "blocks": {
+        "column_crB8QR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2024-12-26T180914.896.png",
+            "title": "",
+            "text": "<p>Rated 4.5\/5<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JMPYrG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2024-12-26T180921.743.png",
+            "title": "",
+            "text": "<p>Customizable Designs<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_XQbUh9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2024-12-26T180935.297.png",
+            "title": "",
+            "text": "<p>Signature Gift Box<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_CUtx3k": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2024-12-26T180948.954.png",
+            "title": "",
+            "text": "<p>High Speed Service<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_KkXHWd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2024-12-26T180959.867.png",
+            "title": "",
+            "text": "<p>Lowest Manufacturer Price<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_fV7Wgq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2024-12-26T181012.015.png",
+            "title": "",
+            "text": "<p>15 Day Money Back <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_crB8QR",
+        "column_JMPYrG",
+        "column_XQbUh9",
+        "column_CUtx3k",
+        "column_KkXHWd",
+        "column_fV7Wgq"
+      ],
+      "custom_css": [
+        ".multicolumn .multicolumn-card-spacing .media img.multicolumn-card__image {max-width: 80px; height: auto;}",
+        ".multicolumn .multicolumn-card__info .rte {font-size: 12px;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "new_featured_collection_X3T4PC": {
+      "type": "new-featured-collection",
+      "custom_css": [
+        "h2.title {text-align: center; margin-top: 0;}",
+        "h2.title p {margin-top: 0;}"
+      ],
+      "settings": {
+        "title": "<p><em>Best<\/em><br\/>SELLERS<\/p>",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "new-home-page",
+        "button_text": "",
+        "button_url": "",
+        "products_to_show": 50,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_CmNHPD": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_FgFcgy": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Ornate Story",
+            "heading_size": "h1"
+          }
+        },
+        "text_GD8r3j": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"asc streetwear collection is amazing! The fit is perfect, and the materials are super comfortable. I'm always excited to see what they come out with next.\"<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_KkrtnQ": {
+          "type": "button",
+          "settings": {
+            "button_label": "ABOUT US",
+            "button_link": "#",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_FgFcgy",
+        "text_GD8r3j",
+        "button_KkrtnQ"
+      ],
+      "settings": {
+        "custom_liquid_top": "",
+        "custom_liquid_top_inner": "",
+        "custom_class": "",
+        "image": "shopify:\/\/shop_images\/image_-_2024-12-26T175919.782.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_liquid_bottom_inner": "",
+        "custom_liquid_bottom": ""
+      }
+    },
+    "featured_product_slider_HtKJVW": {
+      "type": "featured-product-slider",
+      "blocks": {
+        "text_DFCcaU": {
+          "type": "text",
+          "settings": {
+            "product": "lush-lust-statement-ring-1",
+            "text_style": "body",
+            "heading_size": "h2",
+            "picker_type": "button",
+            "swatch_shape": "circle",
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "share_label": "Share",
+            "custom_liquid": ""
+          }
+        },
+        "text_eEhXcz": {
+          "type": "text",
+          "settings": {
+            "product": "serenade-in-silver-18k-sterling-silver-ruby-with-turquoise-earrings-set",
+            "text_style": "body",
+            "heading_size": "h2",
+            "picker_type": "button",
+            "swatch_shape": "circle",
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false,
+            "share_label": "Share",
+            "custom_liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_DFCcaU",
+        "text_eEhXcz"
+      ],
+      "settings": {
+        "color_scheme": "scheme-5",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "show_product_title": true,
+        "show_product_price": true,
+        "show_product_sku": true,
+        "show_product_quantity_selector": true,
+        "show_product_share": true,
+        "show_product_variant_picker": true,
+        "show_product_buy_buttons": true,
+        "show_product_custom_liquid": true,
+        "show_product_rating": true
+      }
+    },
+    "multicolumn_wq7B7N": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_7Ta6q4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2024-12-26T182602.594.png",
+            "title": "",
+            "text": "<p><strong>MEN<\/strong><\/p>",
+            "link_label": "Explore",
+            "link": "#"
+          }
+        },
+        "column_BCLecc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2024-12-26T182626.424.png",
+            "title": "",
+            "text": "<p><strong>KIDS<\/strong><\/p>",
+            "link_label": "Explore",
+            "link": "#"
+          }
+        },
+        "column_78rG47": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_-_2024-12-26T182639.507.png",
+            "title": "",
+            "text": "<p><strong>WOMEN<\/strong><\/p>",
+            "link_label": "Explore",
+            "link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "column_7Ta6q4",
+        "column_BCLecc",
+        "column_78rG47"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".multicolumn .multicolumn-card__info {padding-top: 1rem;}"
+      ],
+      "settings": {
+        "title": "Shop By Gender",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "new_testimonials_bjHBfD": {
+      "type": "new-testimonials",
+      "blocks": {
+        "testimonial_aFQR7M": {
+          "type": "testimonial",
+          "settings": {
+            "title": "",
+            "content": "<p>The ring itself is stunning, with a beautiful design that catches the light and sparkles from every angle. The quality of the materials used is evident, as the ring feels substantial and durable. The gemstone is exquisite, with a vibrant color and exceptional clarity.<\/p>",
+            "image": "shopify:\/\/shop_images\/image_-_2024-12-27T140507.135.png",
+            "author": "<strong>Anna Fernandez<\/strong>",
+            "rating": "<p>USA<\/p>"
+          }
+        },
+        "testimonial_FBw64B": {
+          "type": "testimonial",
+          "settings": {
+            "title": "",
+            "content": "<p>The ring itself is stunning, with a beautiful design that catches the light and sparkles from every angle. The quality of the materials used is evident, as the ring feels substantial and durable. The gemstone is exquisite, with a vibrant color and exceptional clarity.<\/p>",
+            "image": "shopify:\/\/shop_images\/image_-_2024-12-27T140507.135.png",
+            "author": "<strong>Anna Fernandez<\/strong>",
+            "rating": "<p>USA<\/p>"
+          }
+        },
+        "testimonial_wy7rTa": {
+          "type": "testimonial",
+          "settings": {
+            "title": "",
+            "content": "<p>The ring itself is stunning, with a beautiful design that catches the light and sparkles from every angle. The quality of the materials used is evident, as the ring feels substantial and durable. The gemstone is exquisite, with a vibrant color and exceptional clarity.<\/p>",
+            "image": "shopify:\/\/shop_images\/image_-_2024-12-27T140507.135.png",
+            "author": "<strong>Anna Fernandez<\/strong>",
+            "rating": "<p>USA<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_aFQR7M",
+        "testimonial_FBw64B",
+        "testimonial_wy7rTa"
+      ],
+      "settings": {
+        "title": "From the People",
+        "content": "<p>We love hearing from our customers! You’re the reason we’re here and the reason we do what we do.<\/p>",
+        "color_scheme": "scheme-4",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    }
+  },
+  "order": [
+    "slideshow_C4tb3B",
+    "multicolumn_EB6iA7",
+    "new_featured_collection_xWrbF4",
+    "image_with_featured_collection_BLR8MF",
+    "image_banner_kiLC8j",
+    "category_multicolumn_Ca4tDR",
+    "new_featured_collection_X3T4PC",
+    "image_with_text_CmNHPD",
+    "featured_product_slider_HtKJVW",
+    "multicolumn_wq7B7N",
+    "new_testimonials_bjHBfD"
+  ]
+}
